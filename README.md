@@ -60,7 +60,10 @@ Git Config   47 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacgit18&theme=great-gatsby)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<a href="https://github.com/jacgit18">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jacgit18&theme=great-gatsby" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Streak" />
+</a> 
 
 <a href="https://github.com/jacgit18">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jacgit18&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=Joshua%27s%20Overall%20GitHub%20Stats" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Stats" />
@@ -71,13 +74,4 @@ Git Config   47 mins         ▓░░░░░░░░░░░░░░░░
 </a>
 
 
-
-
-
-
-
-
-<!-- <a href="https://github.com/jacgit18">
-<img align="left" style="margin-top: 3px" src="https://github-readme-stats.vercel.app/api/wakatime?username=jacgit18&theme=maroongold&custom_title=Joshua%27s%20Wakatime%20Weekly%20Stats" alt="Summary of Joshua's Wakatime Weekly Stats" title="Summary of Joshua's Wakatime Weekly Stats" />
-</a> -->
 
