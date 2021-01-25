@@ -65,4 +65,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 17 mins  ███████████████████░░░░░░   75.64 % 
+JSON         1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Text         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Python       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Git Config   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+```
 <!--END_SECTION:waka-->
