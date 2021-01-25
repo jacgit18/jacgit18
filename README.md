@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm Joshua here is a little bit about me</h1>
 
-
-I am recent city tech grad who is focused on web developement. Right now, Im currently working on refining my skillset Learning more about JavaScript, agile developement, test cases, data strucures, and working on creating a website and fullstack development.
+<p>
+I am a recent City Tech grad who is focused on becoming a web developer. Right now, I'm working on refining my skillset learning more about JavaScript, and eventually Typescript I also plan to work on building test cases and working on creating a website, and eventually become a full-stack developer. Besides that, I am trying to become a Linux power user I currently use Pop OS but eventually want to use Arch based distros like Manjaro to be on the bleeding edge of Linux.
+</p>
 
 <a href="https://github.com/jacgit18">
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=jacgit18.jacgit18user=jacgit18" alt="Joshua's Vistor Stats" title="Vistors" />
@@ -65,15 +66,11 @@ Git Config   47 mins         ▓░░░░░░░░░░░░░░░░
 <a href="https://github.com/jacgit18">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jacgit18&theme=great-gatsby" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Streak" />
 </a> 
-</div>
 
-<div>
 <a href="https://github.com/jacgit18">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jacgit18&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=Joshua%27s%20Overall%20GitHub%20Stats" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Stats"/>
 </a> 
-</div>
 
-<div>
 <a href="https://github.com/jacgit18">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacgit18&theme=great-gatsby&langs_count=7&hide=hack&custom_title=Joshua%27s%20Most%20Used%20Languages" alt="List of Joshua's Most Used Languages" title="List of Joshua's Most Used Languages" />
 </a>
