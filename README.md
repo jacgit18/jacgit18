@@ -48,13 +48,21 @@ Here are some ideas to get you started:
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=jacgit18.jacgit18)
 
-<a href="https://github.com/jacgit18">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacgit18&theme=great-gatsby&langs_count=7&hide=hack&custom_title=Joshua%27s%20Most%20Used%20Languages" alt="List of Joshua's Most Used Languages" title="List of Joshua's Most Used Languages" />
-</a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <a href="https://github.com/jacgit18">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jacgit18&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=Joshua%27s%20Overall%20GitHub%20Stats" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jacgit18&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=Joshua%27s%20Overall%20GitHub%20Stats" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Stats" />
+</a> 
+
+<a href="https://github.com/jacgit18">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacgit18&theme=great-gatsby&langs_count=7&hide=hack&custom_title=Joshua%27s%20Most%20Used%20Languages" alt="List of Joshua's Most Used Languages" title="List of Joshua's Most Used Languages" />
 </a>
+
+
+
+
 
 
 
@@ -63,13 +71,3 @@ Here are some ideas to get you started:
 <img align="left" style="margin-top: 3px" src="https://github-readme-stats.vercel.app/api/wakatime?username=jacgit18&theme=maroongold&custom_title=Joshua%27s%20Wakatime%20Weekly%20Stats" alt="Summary of Joshua's Wakatime Weekly Stats" title="Summary of Joshua's Wakatime Weekly Stats" />
 </a> -->
 
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 17 mins  ███████████████████░░░░░░   75.64 % 
-JSON         1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Text         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Python       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Git Config   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-```
-<!--END_SECTION:waka-->
