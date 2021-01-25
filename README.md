@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  -->
-### Current Languages Focused On
+### Current Languages & Technologies Focused On
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-
-<!-- [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  -->
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 ### Frameworks Worked Wtih 
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&labelColor=6610f2&logo=bootstrap&logoColor=ffffff)](#)
@@ -33,13 +32,18 @@ Here are some ideas to get you started:
 
 
 
+
 ### Future Tech Trying To Add in Workflow
-[![Docker Badge](https://img.shields.io/badge/-Docker-17a2b8?style=for-the-badge&labelColor=black&logo=docker&logoColor=61DBFB)](#) 
+[![Docker Badge](https://img.shields.io/badge/-Docker-17a2b8?style=for-the-badge&labelColor=black&logo=docker&logoColor=61DBFB&src='https://www.docker.com')](#) 
 [![Heroku Badge](https://img.shields.io/badge/-Heroku-ffffff?style=for-the-badge&labelColor=79589f&logo=heroku&logoColor=ffffff)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-ffffff?style=for-the-badge&labelColor=13aa52&logo=mongodb&logoColor=ffffff)](#)
-[![Postgresql Badge](https://img.shields.io/badge/-Postgresql-336791?style=for-the-badge&labelColor=ffffff&logo=postgresql&logoColor=336791)](#)  
+[![Postgresql Badge](https://img.shields.io/badge/-Postgresql-336791?style=for-the-badge&labelColor=ffffff&logo=postgresql&logoColor=336791)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&labelColor=ffffff&logo=typescript&logoColor=3178c6)](#)
+[![GO! Badge](https://img.shields.io/badge/-GO!-007d9c?style=for-the-badge&labelColor=ffffff&logo=go&logoColor=007d9c)](#)   
 ### Other Languages Proficient & Worked With 
-[![Bash Badge](https://img.shields.io/badge/-Bash-f2bf18?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)[![Dart Badge](https://img.shields.io/badge/-Dart-1b73de?style=for-the-badge&labelColor=black&logo=dart&logoColor=1b73de)](#)[![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
+[![Bash Badge](https://img.shields.io/badge/-Bash-f2bf18?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
+[![Dart Badge](https://img.shields.io/badge/-Dart-1b73de?style=for-the-badge&labelColor=black&logo=dart&logoColor=1b73de)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
 
 
 
