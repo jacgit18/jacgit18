@@ -62,19 +62,17 @@ Git Config   47 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<div>
 <a href="https://github.com/jacgit18">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jacgit18&theme=great-gatsby" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Streak" />
+<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=jacgit18&theme=great-gatsby" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Streak" />
 </a> 
 
 <a href="https://github.com/jacgit18">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jacgit18&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=Joshua%27s%20Overall%20GitHub%20Stats" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jacgit18&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=Joshua%27s%20Overall%20GitHub%20Stats" alt="Summary of Joshua's GitHub Stats" title="Summary of Joshua's GitHub Stats"/>
 </a> 
 
-<a href="https://github.com/jacgit18">
+<!-- <a href="https://github.com/jacgit18">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacgit18&theme=great-gatsby&langs_count=7&hide=hack&custom_title=Joshua%27s%20Most%20Used%20Languages" alt="List of Joshua's Most Used Languages" title="List of Joshua's Most Used Languages" />
-</a>
-</div>
+</a> -->
 
 
 
