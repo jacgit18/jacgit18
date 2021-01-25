@@ -50,6 +50,13 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 12 mins  ███████████████▓░░░░░░░░░   62.08 % 
+JSON         2 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Markdown     2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Python       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Git Config   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+```
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/jacgit18">
