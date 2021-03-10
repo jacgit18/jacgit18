@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin Badge](https://img.shields.io/badge/-Joshua-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-carpentier)                                      [![Mail Badge](https://img.shields.io/badge/-Joshua-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jacdevgoo2020@gmail.com)
+
 ### Current Languages & Technologies Focused On
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
