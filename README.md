@@ -57,9 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-CSS          40 mins         ████████████▓░░░░░░░░░░░░   51.25 % 
-JavaScript   19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 % 
-HTML         18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+JavaScript   19 mins         ████████████████████████▓   98.35 % 
 ```
 <!--END_SECTION:waka-->
 
