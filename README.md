@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   19 mins         ████████████████████████▓   98.35 % 
+
 ```
 <!--END_SECTION:waka-->
 
