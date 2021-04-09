@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   20 mins         ████████████▓░░░░░░░░░░░░   51.18 % 
-Other        10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.13 % 
-Python       7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Git Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+JavaScript   36 mins         ████████████████▒░░░░░░░░   65.43 % 
+Other        10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Python       7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 <!--END_SECTION:waka-->
 
