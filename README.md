@@ -57,10 +57,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 16 mins   ██████████████████████▓░░   91.04 % 
-Other        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Python       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JavaScript   2 hrs 56 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
