@@ -57,10 +57,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     2 hrs 12 mins   ███████████░░░░░░░░░░░░░░   43.84 % 
-JavaScript   1 hr 32 mins    ███████▓░░░░░░░░░░░░░░░░░   30.60 % 
-HTML         42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-CSS          33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+JavaScript   1 hr 19 mins    ████████████▓░░░░░░░░░░░░   50.97 % 
+HTML         42 mins         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+CSS          33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.39 % 
 ```
 <!--END_SECTION:waka-->
 
